@@ -16,3 +16,8 @@ Fat is built-in package
 https://pkg.go.dev/std —official doc for packages
 # 8. 
 To run the the go  use go run <fileName.go>
+
+#9 youtube channels 
+https://www.youtube.com/watch?v=yyUHQIec83I&t=199s
+
+https://www.youtube.com/watch?v=jFfo23yIWac
