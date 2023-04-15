@@ -4,22 +4,22 @@ This is a simple guide to creating a Go application.
 
 ## Installation
 
-1. Initialize a Go module by running the following command:
+1. Initialize a Go module by running the following command: `go mod init booking-project`
 
-2. Create a main Go file.
+2. Create a main Go file. `main.go`
 
-3. Add the package on the top of the main file, for example:
+3. Add the package on the top of the main file, for example: `package main`
 
 4. Create a `func` so Go knows where to start execution.
 
-5. Import packages, for example:
+5. Import packages, for example:`fmt` package to use print 
 
 
 6. `fmt` is a built-in package.
 
 7. You can refer to the official documentation for packages at https://pkg.go.dev/std.
 
-8. To run the Go code, use the following command:
+8. To run the Go code, use the following command: `go run <fileName.go>`
 
 
 ## Resources
