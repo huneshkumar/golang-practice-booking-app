@@ -4,7 +4,7 @@
 Initialize go.mod  —command < go mod init booking-project >
 # 2. 
 Create go.main file
-#3. 
+# 3. 
 Add package on the top in the main file eg package main
 # 4.
 We need to create func so go knows where to start execution 
